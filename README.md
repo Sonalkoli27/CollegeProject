@@ -23,3 +23,8 @@ User interface design
 Frontend development
 
 Page layouts, navigation, and user interaction
+
+4. Vaishnavi Mane – Testing & Documentation
+   - Software testing and bug identification
+   - Test case preparation
+   - Project documentation and report preparation
